@@ -1,0 +1,61 @@
+{
+  "name": "root",
+  "x": 90,
+  "y": 140,
+  "direction": 1,
+  "width": 180,
+  "height": 100,
+  "background": "#F22E9A",
+  "children": [
+    {
+      "name": "analytics",
+      "x": 290,
+      "y": 70,
+      "direction": 1,
+      "width": 180,
+      "height": 100,
+      "background": "grey",
+      "color": "blue",
+      "children": [
+        {
+          "name": "valami",
+          "x": 490,
+          "y": 10,
+          "direction": 1,
+          "width": 180,
+          "height": 100,
+          "background": "white",
+          "color": "blue",
+          "children": [],
+          "linkarray": []
+        },
+        {
+          "name": "valami2",
+          "x": 490,
+          "y": 150,
+          "direction": 1,
+          "width": 180,
+          "height": 100,
+          "background": "white",
+          "color": "blue",
+          "children": [],
+          "linkarray": []
+        }
+      ],
+      "linkarray": []
+    },
+    {
+      "name": "graph",
+      "x": -140,
+      "y": 250,
+      "direction": -1,
+      "width": 180,
+      "height": 100,
+      "background": "white",
+      "color": "red",
+      "children": [],
+      "linkarray": []
+    }
+  ],
+  "linkarray": []
+}
