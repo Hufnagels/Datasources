@@ -1,4 +1,5 @@
 {
+  "id":"",
   "name": "root",
   "x": 90,
   "y": 140,
@@ -8,6 +9,7 @@
   "background": "#F22E9A",
   "children": [
     {
+      "id":"",
       "name": "analytics",
       "x": 290,
       "y": 70,
@@ -18,6 +20,7 @@
       "color": "blue",
       "children": [
         {
+          "id":"",
           "name": "valami",
           "x": 490,
           "y": 10,
@@ -30,6 +33,7 @@
           "linkarray": []
         },
         {
+          "id":"",
           "name": "valami2",
           "x": 490,
           "y": 150,
@@ -45,6 +49,7 @@
       "linkarray": []
     },
     {
+      "id":"",
       "name": "graph",
       "x": -140,
       "y": 250,
